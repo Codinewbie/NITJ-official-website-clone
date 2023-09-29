@@ -4,7 +4,7 @@ This GitHub repository hosts a faithful clone of the official website of the Nat
 Here are few screenshots of the website i have created.
 - Homepage
 1.
-![Dr  B R Ambdekar National Institute of Technology Jalandhar and 5 more pages - Profile 1 - Microsoft​ Edge 28-09-2023 22_21_42](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/cf3c9817-6ae5-4a91-915b-99874c95a294)
+![Dr  B R Ambdekar National Institute of Technology Jalandhar and 4 more pages - Profile 1 - Microsoft​ Edge 29-09-2023 23_17_31](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/b334704b-ae66-46ba-b928-0982f0b35b20)
 
 2.
 ![Faculty - Department of Bio-Technology - Dr B R Ambedkar NIT, Jalandhar and 5 more pages - Profile 1 - Microsoft​ Edge 28-09-2023 22_24_51](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/37958d97-f953-479d-a067-acb2f8469168)
