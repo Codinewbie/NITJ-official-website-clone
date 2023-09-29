@@ -16,8 +16,8 @@ Here are few screenshots of the website i have created.
 ![Captures 28-09-2023 22_25_41](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/6ff45573-4679-42e0-a54b-6a0d0205fa9c)
 
 - Nested Webpage
+![Captures 29-09-2023 23_19_19](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/a29d19a1-4a46-40d6-9b43-8d61345f1faf)
 
-![Photos 28-09-2023 22_24_31](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/ea5f8b0e-8751-43c9-8f55-7f7eeb287127)
 
 
 ![Dr  B R Ambdekar National Institute of Technology Jalandhar and 5 more pages - Profile 1 - Microsoft​ Edge 28-09-2023 22_24_39](https://github.com/Codinewbie/NITJ-official-website-clone/assets/124084324/2397646c-59e3-468e-ba2f-3241e4538c16)
